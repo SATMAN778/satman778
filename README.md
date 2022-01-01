@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RPA UiPath Free Practice Test](https://rpabotsworld.com/rpa-uipath-free-practice-test/)
 - [UiPath Integration Service –Platform Update 21.10 | Working ServiceNow Example](https://rpabotsworld.com/uipath-integration-service-working-servicenow-example/)
 - [UiPath Code Review Checklist – To Perform Effective RPA Code Reviews](https://rpabotsworld.com/uipath-code-review-checklist/)
 - [Working Example Using Robocorp Work Items | Definitive Guide 2021](https://rpabotsworld.com/working-example-using-work-items-definitive-guide/)
 - [Excellent SPOTO Services for IT Certification Training](https://rpabotsworld.com/overview-of-spoto-services/)
-- [Microsoft Power Automate Pricing – Is Power Automate Worth It?](https://rpabotsworld.com/microsoft-power-automate-pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
