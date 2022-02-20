@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate CI/CD pipelines using UiPath GitHub Actions and PowerShell](https://rpabotsworld.com/uipath-github-actions/)
 - [Is RPA useful for pharmaceutical businesses?](https://rpabotsworld.com/rpa-useful-for-pharmaceutical-businesses/)
 - [RPA UiPath Free Practice Test – Quiz 4](https://rpabotsworld.com/rpa-uipath-free-practice-test-quiz-4/)
 - [RPA UiPath Free Practice Test – Quiz 3](https://rpabotsworld.com/rpa-uipath-free-practice-test-quiz-3/)
 - [RPA UiPath Free Practice Test – Quiz 2](https://rpabotsworld.com/rpa-uipath-free-practice-test-quiz-2/)
-- [RPA UiPath Free Practice Test](https://rpabotsworld.com/rpa-uipath-free-practice-test/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
